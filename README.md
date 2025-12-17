@@ -1,1 +1,1 @@
-# linux-install
+# my-linux-rice
